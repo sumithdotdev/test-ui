@@ -15,22 +15,22 @@ export default function Home() {
   const tracks = [
     {
       id: 1,
-      title: "Ninjas in Paris",
+      title: "ABCD",
       artist: "Kanye",
       duration: "3:30"
     },
 
     {
       id: 2,
-      title: "Heil Stalin",
+      title: "EFGH",
       artist: "Sumith",
       duration: "3:30"
     },
 
     {
       id: 3,
-      title: "Fartnite",
-      artist: "Speed",
+      title: "IJKL",
+      artist: "Travis",
       duration: "3:30"
     }
   ]
